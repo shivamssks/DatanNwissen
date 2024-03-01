@@ -1,0 +1,3 @@
+ultralytics==8.1.19
+Flask==2.3.2
+Flask-RESTful==0.3.10
