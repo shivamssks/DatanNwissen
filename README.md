@@ -1,4 +1,3 @@
-# Datan and wissen Assignment
 # Problem Statement
 
 Develop a simple API to categorize images, distinguishing between a car or a human. The requirements for this task are as follows:
@@ -19,12 +18,6 @@ Develop a simple API to categorize images, distinguishing between a car or a hum
 4. **Payload for Testing:**
    - Share the payload details for testing using Postman.
    - Optionally, provide a Postman collection or API hit details to facilitate testing and validation.
-
-## Timeline and Further Discussion
-
-For discussing the timeline and any additional details, kindly schedule a call. We can further elaborate on specific requirements, address any queries, and ensure a clear understanding of the project scope.
-
-Feel free to reach out with any questions or to arrange a discussion regarding the project's progression.
 
 ## Approach:
 
